@@ -6,9 +6,18 @@
 
 닷넷(.NET)가 설치가 안되는 분들은 밑에 있는 링크로 이동!
 
-https://dotnet.microsoft.com/download/dotnet-core/3.1/runtime/?utm_source=getdotnetcore&utm_medium=referral
+Link: [닷넷][.NET SITE]
+
+[.NET SITE]: https://dotnet.microsoft.com/download/dotnet-core/3.1/runtime/?utm_source=getdotnetcore&utm_medium=referral ".NET 사이트로 이동"
 
 그래도 안된다면 제어판에서 제거 후 재설치 해보시길 바랍니다.
 
+# 주의사항
 프로그램 실행 후 업데이트를 하라고한다면, 하지않고 하시는걸 추천합니다.
-ㅇ
+
+#수정 사항:
+* 프로그램에 존재하던 불필요한 코드를 제거하였습니다.
+* 한글패치가 정상적으로 패치되었습니다.
+
+#문의
+프로그램이 정상적으로 실행이 되지 않거나, 기존에 있던 오류를 제외한 다른 오류가 발생한다면, 유튜브 댓글에서 알려주세요!
