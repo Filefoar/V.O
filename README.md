@@ -6,7 +6,7 @@
 
 닷넷(.NET)가 설치가 안되는 분들은 밑에 있는 링크로 이동!
 
-Link: [닷넷][.NET SITE]
+사이트 : [닷넷][.NET SITE]
 
 [.NET SITE]: https://dotnet.microsoft.com/download/dotnet-core/3.1/runtime/?utm_source=getdotnetcore&utm_medium=referral ".NET 사이트로 이동"
 
